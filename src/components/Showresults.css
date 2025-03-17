@@ -1,0 +1,10 @@
+.Ip-list{
+    color: rgb(25, 0, 255);
+    font-weight: bolder;
+    font-style: italic;
+}
+
+.App-results{
+    list-style: none;
+    font-weight: bold;
+}
